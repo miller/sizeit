@@ -9,7 +9,7 @@ Clone the source and run `npm install` under directory sizeit.
 
 ### USAGE
 
-		Usage: sizeit.js [options] <filepath>
+		node sizeit.js [options] <filepath>
 
 		Options:
 
